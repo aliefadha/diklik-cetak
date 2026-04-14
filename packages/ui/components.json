@@ -1,0 +1,24 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "base-lyra",
+  "rsc": false,
+  "tsx": true,
+  "tailwind": {
+    "config": "",
+    "css": "src/styles/globals.css",
+    "baseColor": "neutral",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "iconLibrary": "lucide",
+  "aliases": {
+    "components": "@diklik-cetak/ui/components",
+    "utils": "@diklik-cetak/ui/lib/utils",
+    "hooks": "@diklik-cetak/ui/hooks",
+    "lib": "@diklik-cetak/ui/lib",
+    "ui": "@diklik-cetak/ui/components"
+  },
+  "menuColor": "default",
+  "menuAccent": "subtle",
+  "registries": {}
+}
